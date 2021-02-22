@@ -38,4 +38,4 @@ THEN the saved events persist
 ```
 [Website Link](https://cabril87.github.io/WDS-TPAPI-HW-5/)
 
-![Website Screenshot]()
+![Website Screenshot](./Assets/ss.png)
